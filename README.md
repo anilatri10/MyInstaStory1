@@ -13,3 +13,7 @@ Use animations or transitions for smoother story transitions and UI interactions
 
 To complete above requirment i use realtime firebase database where i have create a dummy data of stories.
 there are no need to login with firebase i use my user refrence in code.
+
+
+
+firebase refrence is only testing purpose.
